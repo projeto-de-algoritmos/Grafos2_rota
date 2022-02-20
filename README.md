@@ -1,45 +1,36 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# MENOR ROTA
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 2<br>
+**Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0015222  |  Daniela Soares de Oliveira |
+| 18/0113992  |  Lorrany Oliveira Souza     |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O algoritmo de Dijkstra tem como principal função identificar o menor caminho entre os nós. Pensando em demostrar na prática, este projeto foi desenvolvido. Por meio do algoritmo de Dijkstra, ele consegue indentificar o menor caminho partindo de Brasilia para outro destino.  
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
-
+![imagem 1](/img/imagem.png)
+A primeira imagem demostra o que acontece assim que você inicia o projeto.
+![imagem 2](/img/imagem2.png)
+A segunda imagem demostra o que acontece quando o botão "resolve" é selecionado.
+![imagem 3](/img/imagem3.png)
+A terceira imagem demostra o que acontece quando o botão "novo problema" é selecionado.
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: javascript, html, css<br>
+**Framework**: não se aplica<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
+Para conseguir rodar este projeto, siga os passos abaixo: 
+#### 1- instalação do node.
+#### 2- instalação de um http server. Para sua instalação, siga o tutorial presente nesta página: <https://www.npmjs.com/package/http-server>
+#### 3- Clone esse repositório.
+#### 4- Entre no projeto pelo terminal, e digite o seguinte comando: 
+#### **http-server -c-1**
+#### 5- Abra o link que irá aparecer no terminal.
 
 
 
