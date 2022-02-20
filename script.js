@@ -9,7 +9,7 @@ onload = function () {
     const solve = document.getElementById('solve');
     const temptext = document.getElementById('temptext');
     const temptext2 = document.getElementById('temptext2');
-    const cities = ['São Paulo', 'Rio de Janeiro', 'Belo Horizonte', 'Curitiba', 'Porto Alegre', 'Brasília', 'Fortaleza', 'Goiânia', 'Santos', 'Recife'];
+    const cities = ['Brasília','São Paulo', 'Rio de Janeiro', 'Belo Horizonte', 'Curitiba', 'Porto Alegre', 'Fortaleza', 'Goiânia', 'Santos', 'Recife'];
 
     
     const options = {
